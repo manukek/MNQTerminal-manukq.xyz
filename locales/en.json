@@ -1,0 +1,17 @@
+{
+    "welcome": "                                                               \n         @@@@@@                                                \n      @@@@@@@@@@@@                                             \n   @@@@@@@@  @@@@@@@@                                          \n @@@@@@@@@@@@@@@@@@@@@@                                        \n @@@@@@@@@@@@@@@@@@@@@@ @@@@@    @@@@@ @@@@@   @@@@   @@@@@@@@  \n @@@@@@@@@@@@@@@@@@@@@@ @@@@@@  @@@@@@ @@@@@@@ @@@@ @@@@@@@@@@@@\n @@@@@@@@@@@@@@@@@@@@@@ @@@@@@@@@@@@@@ @@@@@@@@@@@@ @@@@    @@@@\n @@@@@   @@@@@@   @@@@@ @@@ @@@@@@ @@@ @@@@ @@@@@@@ @@@@@@@@@@@@\n @@@@@    @@@@@   @@@@@ @@@  @@@@@ @@@ @@@@  @@@@@@  @@@@@@@@@@ \n @@@@@    @@@@    @@@@@                                   @@@@ \n  @@@              @@@\n\nWelcome to MNQ Terminal v1.0.0\nType 'help' for available commands.\n",
+    "readonly": "READ ONLY",
+    "exit": "Exit",
+    "readfile": "Read File",
+    "whereis": "Where Is",
+    "readonly_error": "bash: nano: {file}: Read-only file system",
+    "missing_operand": "bash: {command}: missing operand",
+    "no_such_file": "bash: cat: {file}: No such file",
+    "no_such_directory": "bash: cd: {path}: No such file or directory",
+    "command_not_found": "bash: {command}: command not found",
+    "empty_directory": "(empty)",
+    "logout": "logout",
+    "locale_changed": "Language changed to {lang}",
+    "help_content": "Available commands:\n  cd [dir]         Change directory\n  ls [dir]         List directory contents\n  pwd              Print working directory\n  cat [file]       Display file contents\n  nano [file]      Text editor (readonly)\n  clear            Clear terminal\n  exit             Exit session\n  help             Show this help\n  locale [en|ru]   Change language",
+    "invalid_locale": "bash: locale: Invalid locale. Use: en or ru"
+}
