@@ -1,4 +1,4 @@
-# MNQTerminal | manukq.xyz | DEPRECATED
+# MNQTerminal | DEPRECATED
 ### Старая идея моего вебсайта написанный на Nuxt.js / В разработке
 
 
